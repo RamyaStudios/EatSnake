@@ -1,0 +1,2 @@
+# EatSnake
+Snake eating itself
