@@ -1,0 +1,10 @@
+body {
+	background-color: #888;
+	background-image: url(splash.jpg);
+	background-repeat: no-repeat;
+	clip: rect(0px,auto,auto,0px);
+ }
+ 
+ canvas {
+   border: solid 1px blue; 
+ }
